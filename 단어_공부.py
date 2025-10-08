@@ -1,0 +1,2 @@
+world = str(input())
+
