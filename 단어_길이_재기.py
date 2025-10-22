@@ -1,3 +1,3 @@
-world = str(input())
+world = input()
 
 print(len(world))
